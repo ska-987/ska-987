@@ -1,14 +1,19 @@
 <p align="center">
-  <img src="logo officiel.png" alt="Logo ska_987" width="180">
+  <img src="logo%20officiel.png" alt="Logo ska_987" width="180">
 </p>
 
-<h1 align="center">Ska_987</h1>
+<h1 align="center">ska_987</h1>
 
-# Ska_987
+<p align="center">
+  Développeur indépendant • Windows • Android • Open Source
+</p>
 
-Développeur indépendant spécialisé dans la création d'applications pratiques pour **Windows** et **Android**.
+## À propos
+
+Développeur indépendant spécialisé dans la création d'applications pratiques pour Windows et Android.
 
 Je développe principalement des outils destinés aux indépendants, artisans et petites entreprises, avec une attention particulière portée à la simplicité, à l'utilisation hors ligne et à la maîtrise des données par l'utilisateur.
+
 
 ## Projets
 
@@ -48,5 +53,5 @@ Les projets publiés en open source utilisent principalement la licence **GNU GP
 
 ---
 
-**Developer:** Ska_987
+**Developer:** ska_987
 **GitHub:** ska-987
