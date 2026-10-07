@@ -1,16 +1,46 @@
-## Hi there 👋
+# ska_987
 
-<!--
-**ska-987/ska-987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Développeur indépendant spécialisé dans la création d'applications pratiques pour **Windows** et **Android**.
 
-Here are some ideas to get you started:
+Je développe principalement des outils destinés aux indépendants, artisans et petites entreprises, avec une attention particulière portée à la simplicité, à l'utilisation hors ligne et à la maîtrise des données par l'utilisateur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projets
+
+### Patenteasy
+
+Application Windows destinée à simplifier la gestion quotidienne d'une petite activité professionnelle.
+
+**Technologies :**
+
+* Python
+* PySide6 / Qt
+* Windows
+
+### Hora Ohipa
+
+Application Android de gestion et de suivi du temps de travail.
+
+**Plateforme :**
+
+* Android
+
+## Principes
+
+* logiciels simples et pratiques ;
+* priorité aux données locales ;
+* respect de la vie privée ;
+* développement indépendant ;
+* code open source lorsque le projet le permet.
+
+## Open Source
+
+Les projets publiés en open source utilisent principalement la licence **GNU GPLv3**.
+
+## Technologies
+
+`Python` · `PySide6` · `Qt` · `Android` · `Git` · `GitHub` · `Linux` · `Windows`
+
+---
+
+**Developer:** ska_987
+**GitHub:** ska-987
