@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="logo officiel.png" alt="Logo ska_987" width="180">
+</p>
+
+<h1 align="center">ska_987</h1>
+
 # ska_987
 
 Développeur indépendant spécialisé dans la création d'applications pratiques pour **Windows** et **Android**.
