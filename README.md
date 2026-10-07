@@ -2,9 +2,9 @@
   <img src="logo officiel.png" alt="Logo ska_987" width="180">
 </p>
 
-<h1 align="center">ska_987</h1>
+<h1 align="center">Ska_987</h1>
 
-# ska_987
+# Ska_987
 
 Développeur indépendant spécialisé dans la création d'applications pratiques pour **Windows** et **Android**.
 
@@ -48,5 +48,5 @@ Les projets publiés en open source utilisent principalement la licence **GNU GP
 
 ---
 
-**Developer:** ska_987
+**Developer:** Ska_987
 **GitHub:** ska-987
