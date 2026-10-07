@@ -17,7 +17,7 @@ Je développe principalement des outils destinés aux indépendants, artisans et
 
 ## Projets
 
-### Patenteasy
+### [Patenteasy](https://github.com/ska-987/Patenteasy)
 
 Application Windows destinée à simplifier la gestion quotidienne d'une petite activité professionnelle.
 
@@ -27,7 +27,7 @@ Application Windows destinée à simplifier la gestion quotidienne d'une petite 
 * PySide6 / Qt
 * Windows
 
-### Hora Ohipa
+### [Hora Ohipa](https://github.com/ska-987/Hora-Ohipa)
 
 Application Android de gestion et de suivi du temps de travail.
 
