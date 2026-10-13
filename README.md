@@ -3,55 +3,33 @@
 </p>
 
 <h1 align="center">ska_987</h1>
+<p align="center">Des applications pratiques pour votre activité quotidienne.</p>
 
-<p align="center">
-  Développeur indépendant • Windows • Android • Open Source
-</p>
+Je suis développeur indépendant. Je crée des outils pour Windows et Android, avec une attention particulière à la simplicité, au travail hors connexion et aux données conservées sur votre appareil.
 
-## À propos
+## Découvrez mes applications
 
-Développeur indépendant spécialisé dans la création d'applications pratiques pour Windows et Android.
+| Application | Pour quoi faire ? | Disponible sur |
+| --- | --- | --- |
+| **[Patenteasy](https://github.com/ska-987/Patenteasy#readme)** | Préparer vos devis et factures, suivre vos règlements, clients et dépenses. | Windows et Android |
+| **[Hora ‘ohipa](https://github.com/ska-987/Hora-Ohipa#readme)** | Pointer vos heures de travail et préparer vos factures PDF. | Android |
 
-Je développe principalement des outils destinés aux indépendants, artisans et petites entreprises, avec une attention particulière portée à la simplicité, à l'utilisation hors ligne et à la maîtrise des données par l'utilisateur.
+### Téléchargements
 
+- 🖥️ [Patenteasy pour Windows — bêta 0.4.4](https://patenteasy-updates.sav-centreprotech.workers.dev/fichiers/Patenteasy-Windows-0.4.4-Installation.exe)
+- 📱 [Patenteasy pour Android — bêta 0.4.4](https://patenteasy-updates.sav-centreprotech.workers.dev/fichiers/Patenteasy-Android-0.4.4.apk)
+- ⏱️ [Hora ‘ohipa pour Android — bêta 1.15](https://github.com/ska-987/Hora-Ohipa/releases/download/v1.15-beta/Hora-Ohipa-beta1.15.apk)
 
-## Projets
+## Ce qui guide mes projets
 
-### [Patenteasy](https://github.com/ska-987/Patenteasy)
+Des fonctions utiles, une prise en main accessible et la possibilité de travailler hors connexion. Les projets libres sont publiés avec leur code source ; la licence et les conditions propres à chaque application sont indiquées dans son dépôt.
 
-Application Windows destinée à simplifier la gestion quotidienne d'une petite activité professionnelle.
+## Échangeons
 
-**Technologies :**
+Une question sur une application, une suggestion ou un projet de développement à discuter ?
 
-* Python
-* PySide6 / Qt
-* Windows
+📩 **[sav.centreprotech@proton.me](mailto:sav.centreprotech@proton.me)**
 
-### [Hora Ohipa](https://github.com/ska-987/Hora-Ohipa)
+💛 [Soutenir le développement de Patenteasy](https://www.paypal.com/ncp/payment/A3ELC2Q8GM82N)
 
-Application Android de gestion et de suivi du temps de travail.
-
-**Plateforme :**
-
-* Android
-
-## Principes
-
-* logiciels simples et pratiques ;
-* priorité aux données locales ;
-* respect de la vie privée ;
-* développement indépendant ;
-* code open source lorsque le projet le permet.
-
-## Open Source
-
-Les projets publiés en open source utilisent principalement la licence **GNU GPLv3**.
-
-## Technologies
-
-`Python` · `PySide6` · `Qt` · `Android` · `Git` · `GitHub` · `Linux` · `Windows`
-
----
-
-**Developer:** ska_987
-**GitHub:** ska-987
+**Identité développeur : ska_987 · Compte GitHub : ska-987**
